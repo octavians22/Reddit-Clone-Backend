@@ -1,0 +1,2 @@
+[2023-07-31 14:13:48,046] http-nio-8080-exec-2 com.example.RedditClone.controller.AuthController 48 INFO   - User test logged in.
+[2023-07-31 14:15:46,202] http-nio-8080-exec-2 com.example.RedditClone.controller.AuthController 48 INFO   - User test logged in.
